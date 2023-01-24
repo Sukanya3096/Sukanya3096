@@ -24,4 +24,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukanya3096&show_icons=true&theme=great-gatsby" alt="Sukanya" />
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=sukanya3096.sukanya3096" />
+ <div>
+   <img width="100px" src="https://visitor-badge.glitch.me/badge?page_id=sukanya3096.sukanya3096" />
+</div>
+
