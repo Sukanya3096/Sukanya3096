@@ -1,16 +1,26 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/isukanyadutta">
+  <img align="left" alt="Sukanya Dutta LinkedIn" width="22px" src="https://res.cloudinary.com/dhylingfj/image/upload/v1674543961/Sukanya%27s/linkedinn_aqoqhs.svg" />
+</a>
 
-<!--
-**Sukanya3096/Sukanya3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<div>
+  
+  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+    <li>🧐 Studying React.</li>
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/isukanyadutta">LinkedIn</a>.</li>
+    <li>📝 I will start to write articles on <a href="https://sukanyadutta3096.blogspot.com">my blog</a>.</li>
+    <li>💬 Ping me about <strong>Node, CI/CD, React, Angular, javascript, front-end, full stack stuff</strong>.</li>
+    <!-- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> -->
+    <li>🎉 Fun Fact: I feel serious all the time.</li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukanya3096&show_icons=true&theme=great-gatsby" alt="Sukanya" />
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=sukanya3096.sukanya3096" />
