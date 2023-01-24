@@ -13,7 +13,7 @@
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/isukanyadutta">LinkedIn</a>.</li>
     <li>📝 I will start to write articles on <a href="https://sukanyadutta3096.blogspot.com">my blog</a>.</li>
     <li>💬 Ping me about <strong>Node, CI/CD, React, Angular, javascript, front-end, full stack stuff</strong>.</li>
-    <!-- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> -->
+    <li>📙 Check out my resume: [SukanyaCV.pdf](https://github.com/Sukanya3096/Sukanya3096/files/10488285/SukanyaCV.pdf) </li>
     <li>🎉 Fun Fact: I feel serious all the time.</li>
   </ul>
 </div>
