@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="350px" align="right" src="https://user-images.githubusercontent.com/49310523/214232283-c6302afe-2975-49c5-9b0b-54422f4b2fbc.jpg" />
+  <img width="300px" align="right" src="https://user-images.githubusercontent.com/49310523/214232283-c6302afe-2975-49c5-9b0b-54422f4b2fbc.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 Studying React.</li>
