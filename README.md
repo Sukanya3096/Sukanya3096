@@ -24,7 +24,7 @@
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukanya3096&show_icons=true&theme=great-gatsby" alt="Sukanya" />
 
- <div>
-   <img width="100px" src="https://visitor-badge.glitch.me/badge?page_id=sukanya3096.sukanya3096" />
-</div>
+ 
+  ![](https://komarev.com/ghpvc/?username=Sukanya3096&color=green)
+
 
