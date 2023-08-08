@@ -1,9 +1,3 @@
-<a href="https://www.linkedin.com/in/isukanyadutta">
-  <img align="left" alt="Sukanya Dutta LinkedIn" width="22px" src="https://res.cloudinary.com/dhylingfj/image/upload/v1674543961/Sukanya%27s/linkedinn_aqoqhs.svg" />
-</a>
-
-</br>
-
 <div>
   
   <img width="300px" align="right" src="https://user-images.githubusercontent.com/49310523/214232283-c6302afe-2975-49c5-9b0b-54422f4b2fbc.jpg" />
