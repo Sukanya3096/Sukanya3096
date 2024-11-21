@@ -28,6 +28,7 @@
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sukanyaDutta30/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/isukanyadutta)
+[![stackblitz](https://img.shields.io/badge/-Stackblitz-FFA116?style=for-the-badge&logo=Stackblitz&logoColor=blue)](https://stackblitz.com/@Sukanya3096)
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukanya3096&show_icons=true&theme=great-gatsby" alt="Sukanya" />
 
