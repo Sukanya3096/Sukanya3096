@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-   Check out my CV: [SukanyaCV.pdf](https://github.com/Sukanya3096/Sukanya3096/files/10488285/SukanyaCV.pdf)
+   Check out my CV: [Sukanya CV](https://github.com/user-attachments/files/17839681/Sukanya_Dutta_-_Senior_FrontendDeveloper.pdf)
 
 </br>
 
